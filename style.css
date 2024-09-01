@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+}
+.left{
+    width: 350px;
+    height: 650px;
+    flex-wrap: wrap;
+
+}
+#fe{
+    height: 15px;
+}
+.right{
+    width: 1200px;
+    height: 650px;
+    padding-left: 30px;
+    padding-top: 10px;
+    flex-wrap: wrap;
+}
+#niggi{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    justify-content: center;
+}
+.hing{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+#se{
+    display:flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 5px;
+}
+#te{
+    display: flex;
+    flex-direction: row;
+}
+#be{
+    margin: 10px;
+}
